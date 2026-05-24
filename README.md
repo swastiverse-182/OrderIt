@@ -6,7 +6,7 @@ OrderIt is a responsive, feature-rich full-stack web application built using the
 
 ### 1. Home Page 
 The landing page displays active restaurants with options to filter by dietary preferences (Pure Veg) or sort by ratings and customer reviews.
-![Home Page](./food_order_project/frontend/public/images/user_dashboard.png) 
+![Home Page](./food_order_project/frontend/public/images/home_page.png) 
 
 ### 2. User Page & Restaurant Discovery
 The landing page displays active restaurants with options to filter by dietary preferences (Pure Veg) or sort by ratings and customer reviews.
